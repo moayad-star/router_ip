@@ -84,4 +84,4 @@ $ python3 router_ip.py
 
 # common problems 
 
-* Sometimes you find strange web pages, you should not ignore them, as it is a problem of the interference of external services with internal services
+* Sometimes you find strange web pages, you should ignore them, as it is a problem of the interference of external services with internal services
