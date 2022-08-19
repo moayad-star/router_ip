@@ -23,4 +23,4 @@ $ python3 router_ip.py
 
 
 * Make sure you are close to the network 
-* The links will be displayed directly on the terminal, but the tools will not end until after a deep examination, so it will take about 5 minutes to complete
+* The links will be displayed directly on the terminal, but the tool will not end until after a deep examination, so it will take about 5 minutes to complete
