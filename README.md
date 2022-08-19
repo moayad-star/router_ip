@@ -45,6 +45,25 @@ That is, 65.025 requests are sent to addresses between 192.168.0.0-192.168.255.2
 
 * Patience (the tool checks more than 65,025 IP address)
 
+# Install 
+
+$ apt upgrade -y 
+
+$ apt install git 
+
+$ apt install python3 
+
+$ pip install requests 
+
+$ git clone https://github.com/moayad-star/router_ip.git 
+
+$ cd router_ip 
+
+now can you run it from $ python3 router_ip.py 
+
+If you encounter runtime errors , run $ bash auto_install.sh
+
+
 
 # USE 
 
