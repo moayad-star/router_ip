@@ -45,7 +45,7 @@ That is, 65.025 requests are sent to addresses between 192.168.0.0-192.168.255.2
 
 * Patience (the tool checks more than 65,025 IP address)
 
-# Install 
+# Install for Linux and Termux :
 
 $ apt upgrade -y 
 
