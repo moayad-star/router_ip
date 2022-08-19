@@ -5,7 +5,8 @@ Show all embedded links as a router
 
 It was written in Python 
 
-It is open source and modifiable (The main code must be indicated)
+It is open source and modifiable (The main code must be indicated) 
+
 
 # more description 
 
@@ -28,6 +29,11 @@ router tuning system (os)
 internet receiver 
 
 
+#  Mechanism of Action 
+
+It works by sending requests to possible addresses , start from 192.168.0.0 to the end addresses which are 192.168.255.255 
+
+That is, 65.025 requests are sent to addresses between 192.168.0.0-192.168.255.255
 
 # requirements 
 
