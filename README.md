@@ -1,3 +1,4 @@
+
 # router_ip 
 
 Show all embedded links as a router 
@@ -18,6 +19,10 @@ It is open source and modifiable (with reference to the main source)
 # USE 
 
 $ python3 router_ip.py
+
+# Screenshot 
+
+![Screenshot_20220819_220811_com termux~3](https://user-images.githubusercontent.com/60769512/185690427-99f7e3c7-5b5a-4759-84f5-f23167cc60f0.jpg) 
 
 # NOTE 
 
