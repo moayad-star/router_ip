@@ -12,22 +12,23 @@ It is open source and modifiable (The main code must be indicated)
 
 The tool displays all links for internal routers 
 
+***
 Such as 
 
 
-Wireless Surveillance Cameras 
+* Wireless Surveillance Cameras 
 
-wireless printers 
+* wireless printers 
 
-server (if any) 
+* server (if any) 
 
-Devices that support Port 80 
+* Devices that support Port 80 
 
-wifi router 
+* wifi router 
 
-router tuning system (os) 
+* router tuning system (os) 
 
-internet receiver 
+* internet receiver 
 
 
 ##  Mechanism of Action 
