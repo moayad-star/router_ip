@@ -80,7 +80,7 @@ $ python3 router_ip.py
 
 If you encounter runtime errors , run
 ```
-$ bash auto_install.sh
+$ bash requirements.sh
 ```
 
 
