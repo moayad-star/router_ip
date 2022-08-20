@@ -3,7 +3,7 @@
 
 Show all embedded links as a router 
 
-It was written in Python 
+It written in Python 
 
 It is open source and modifiable (The main code must be indicated) 
 
