@@ -38,16 +38,16 @@ That is, 65.025 requests are sent to addresses between 192.168.0.0-192.168.255.2
 
 ## requirements 
 
-* python3.x
+* `python3.x`
 
 
-* Library requests (install from "pip3 install requests) 
+* `Library requests (install from "pip3 install requests) `
 
 
-* Network 
+* `Network `
 
 
-* Patience (the tool checks more than 65,025 IP address)
+* `Patience (the tool checks more than 65,025 IP address)`
 
 
 ## Install for Linux and Termux :
@@ -90,7 +90,8 @@ $ python3 router_ip.py
 
 ## Screenshot 
 
-![Screenshot_20220819_220811_com termux~3](https://user-images.githubusercontent.com/60769512/185690427-99f7e3c7-5b5a-4759-84f5-f23167cc60f0.jpg) 
+![router_ip](https://user-images.githubusercontent.com/60769512/185744673-993faeec-a77b-4d41-8eb1-182cd6608181.png)
+
 
 ## NOTE 
 
