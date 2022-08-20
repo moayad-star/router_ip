@@ -88,8 +88,10 @@ $ bash requirements.sh
 ```
 $ python3 router_ip.py
 ```
-
-
+>To make an update (if available)
+```
+python3 update.py 
+```
 ## Screenshot 
 
 ![router_ip](https://user-images.githubusercontent.com/60769512/185744673-993faeec-a77b-4d41-8eb1-182cd6608181.png)
