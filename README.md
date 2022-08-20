@@ -32,9 +32,10 @@ internet receiver
 
 ##  Mechanism of Action 
 
-It works by sending requests to possible addresses , start from 192.168.0.0 to the end addresses which are 192.168.255.255 
 
-That is, 65.025 requests are sent to addresses between 192.168.0.0-192.168.255.255
+![Mechanism of Action](https://user-images.githubusercontent.com/60769512/185748020-f8242509-021b-476c-a11b-34eb5e25167c.jpg)
+
+
 
 ## requirements 
 
