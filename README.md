@@ -60,38 +60,38 @@ Such as
 ## Install for Linux and Termux :
 
 ```
-$ apt upgrade -y 
+apt upgrade -y 
 ```
 ```
-$ apt install git 
+apt install git 
 ```
 ```
-$ apt install python3 
+apt install python3 
 ```
 ```
-$ pip install requests 
+pip install requests 
 ```
 ```
-$ git clone https://github.com/moayad-star/router_ip.git 
+git clone https://github.com/moayad-star/router_ip.git 
 ```
 ```
-$ cd router_ip 
+cd router_ip 
 ```
 
 now can you run it from 
 ```
-$ python3 router_ip.py 
+python3 router_ip.py 
 ```
 
 If you encounter runtime errors , run
 ```
-$ bash requirements.sh
+bash requirements.sh
 ```
 
 
 ## USE 
 ```
-$ python3 router_ip.py
+python3 router_ip.py
 ```
 >To make an update (if available)
 ```
