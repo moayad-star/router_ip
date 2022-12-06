@@ -2,6 +2,7 @@
   <img src="https://img.shields.io/badge/Author-moayad--star-orange">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Version-v1.3-green">
 </p>
 
 # router_ip 
@@ -45,55 +46,76 @@ Such as
 
 ## requirements 
 
-* `python3.x`
+* python3.x
 
 
-* `Library requests (install from "pip3 install requests) `
+* Library requests (install from "pip3 install requests) 
 
 
-* `Network `
+* Network 
 
 
-* `Patience (the tool checks more than 65,025 IP address)`
+* Patience (the tool checks more than 65,025 IP address)
 
 
 ## Install for Linux and Termux :
 
+> Upgrade your software
 ```
 apt upgrade -y 
 ```
+
+> install git
+
 ```
 apt install git 
 ```
+
+> install python latest version
+
 ```
 apt install python3 
 ```
+
+> Download requirements
+
 ```
 pip install requests 
 ```
+
+> install router_ip
+
 ```
-git clone https://github.com/moayad-star/router_ip.git 
+git clone https://github.com/moayad-star/router_ip.git
 ```
+
+> open it
+
 ```
 cd router_ip 
 ```
 
-now can you run it from 
+> now can you run it from 
+
 ```
 python3 router_ip.py 
 ```
 
-If you encounter runtime errors , run
+> If you encounter runtime errors , run
+
 ```
 bash requirements.sh
 ```
 
 
 ## USE 
+
+> for start
+
 ```
 python3 router_ip.py
 ```
->To make an update (if available)
+> To make an update (if available)
 ```
 python3 update.py 
 ```
@@ -112,3 +134,6 @@ python3 update.py
 #### common problems 
 
 * Sometimes you find strange web pages, you should ignore them, as it is a problem of the interference of external services with internal services
+
+## lssues ?
+Feel free to ask your issues [here](https://github.com/moayad-star/router_ip/issues)
